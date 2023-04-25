@@ -1,6 +1,6 @@
 {
 "dataframe_records":
 [
-"input":"MLflow serving is awesome!"
+  {"input":"MLflow serving is awesome!"}
 ]
 }
