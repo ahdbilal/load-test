@@ -1,1 +1,6 @@
-{"instances": [ "Fuck you"]}
+{
+"dataframe_records":
+[
+  {"input":"Fuck u"}
+]
+}
