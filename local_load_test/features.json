@@ -1,3 +1,16 @@
 {
-  "inputs": "what is ML?"
+  "dataframe_split": {
+    "columns": [
+      "message",
+      "temperature",
+      "max_tokens"
+    ],
+    "data": [
+      [
+        "what is ML?",
+        0.1,
+        10
+      ]
+    ]
+  }
 }
