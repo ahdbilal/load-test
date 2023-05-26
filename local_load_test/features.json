@@ -1,6 +1,12 @@
 {
- "dataframe_records":
- [
-  {"input":"text here"}
- ]
+  "dataframe_split": {
+    "columns": [
+      "review"
+    ],
+    "data": [
+      [
+        "I love this movie."
+      ]
+    ]
+  }
 }
