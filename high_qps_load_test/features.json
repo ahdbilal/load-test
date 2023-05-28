@@ -1,11 +1,15 @@
 {
   "dataframe_split": {
     "columns": [
-      "review"
+      "message",
+      "temperature",
+      "max_tokens"
     ],
     "data": [
       [
-        "I love this movie."
+        "what is ML?",
+        0.5,
+        100
       ]
     ]
   }
