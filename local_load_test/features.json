@@ -1,15 +1,8 @@
 {
   "dataframe_split": {
-    "columns": [
-      "message",
-      "temperature",
-      "max_tokens"
-    ],
     "data": [
       [
-        "what is ML?",
-        0.5,
-        100
+        "Hello Im a language model"
       ]
     ]
   }
