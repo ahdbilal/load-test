@@ -1,8 +1,11 @@
 {
   "dataframe_split": {
+    "columns": [
+      "review"
+    ],
     "data": [
       [
-        "Hello Im a language model"
+        "I love this movie."
       ]
     ]
   }
